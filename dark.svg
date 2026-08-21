@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="880px" height="540px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="880px" height="540px" fill="#161b22" rx="15"/>
+<text x="30" y="35" fill="#c9d1d9">
+<tspan x="30" y="35">rafi@github</tspan> <tspan class="cc">~ $ whoami</tspan> -————————————————————————————————————————————————————————-—-
+<tspan x="30" y="60" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AI Engineer &amp; 3x Technical Founder (6+ yrs)</tspan>
+<tspan x="30" y="82" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">AI Agents, RAG, LLM Evals, Observability, Systems</tspan>
+<tspan x="30" y="104" class="cc">. </tspan><tspan class="key">Builder.Mode</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">0 ➔ 1 (First Commit ➔ Paying Customers)</tspan>
+<tspan x="30" y="126" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">USA</tspan>
+<tspan x="30" y="148" class="cc">. </tspan>
+<tspan x="30" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">TypeScript, JavaScript, Python, Java, SQL</tspan>
+<tspan x="30" y="192" class="cc">. </tspan><tspan class="key">AI.Stack</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">LangGraph, Anthropic SDK, OpenAI, Pinecone, FAISS, MCP</tspan>
+<tspan x="30" y="214" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Node.js, Bun, FastAPI, Hono, Express, Drizzle, BullMQ</tspan>
+<tspan x="30" y="236" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Next.js 16, React 19, Tailwind CSS, Shadcn UI</tspan>
+<tspan x="30" y="258" class="cc">. </tspan>
+<tspan x="30" y="280" class="cc">. </tspan><tspan class="key">Shipped</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Alif, BeonAI, Paper Pilot, burn0 (5K+ downloads)</tspan>
+<tspan x="30" y="302" class="cc">. </tspan><tspan class="key">Impact</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">50K+ daily queries, 300K+ evals, 800M+ enterprise subscribers</tspan>
+<tspan x="30" y="324" class="cc">. </tspan><tspan class="key">Awards</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">6x Hackathon Winner ($31K+ Prizes, LUXE $25K)</tspan>
+<tspan x="30" y="350">- Contact</tspan> -————————————————————————————————————————————————————————————————————-—-
+<tspan x="30" y="372" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">sd.rafi1819@gmail.com</tspan>
+<tspan x="30" y="394" class="cc">. </tspan><tspan class="key">Websites</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">beonai.io  |  burn0.dev</tspan>
+<tspan x="30" y="416" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/syed-rafi-naqvi-28566bb1</tspan>
+<tspan x="30" y="442">- GitHub Stats</tspan> -———————————————————————————————————————————————————————————————-—-
+<tspan x="30" y="464" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">84</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">112</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">180</tspan>
+<tspan x="30" y="486" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,850</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">124</tspan>
+<tspan x="30" y="508" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">486,210</tspan> ( <tspan class="addColor" id="loc_add">542,100</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">55,890</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
