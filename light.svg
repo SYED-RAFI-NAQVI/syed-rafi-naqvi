@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="880px" height="1189px" font-size="14.5px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="750px" height="1189px" font-size="14.5px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -11,60 +11,58 @@ size-adjust: 109%;
 .key {fill: #953800;}
 .value {fill: #0a3069;}
 .sec {fill: #116329; font-weight: bold;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="880px" height="1189px" fill="#f6f8fa" rx="15"/>
-<text x="30" y="35" fill="#24292f">
-<tspan x="30" y="35">rafi@github</tspan> <tspan class="cc">~ $ whoami</tspan>
-<tspan x="30" y="55" class="cc">────────────────────────────────────────────────────────────────────────────────────────────</tspan>
-<tspan x="30" y="80" class="sec">SYSTEM</tspan>
-<tspan x="30" y="102" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">AI / Software Engineer</tspan>
-<tspan x="30" y="124" class="cc">. </tspan><tspan class="key">Mode</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">6x Technical Founder</tspan>
-<tspan x="30" y="146" class="cc">. </tspan><tspan class="key">Experience</tspan><tspan class="cc"> ................ </tspan><tspan class="value">6+ years</tspan>
-<tspan x="30" y="168" class="cc">. </tspan><tspan class="key">Builder.Mode</tspan><tspan class="cc"> .............. </tspan><tspan class="value">0 → 1</tspan>
-<tspan x="30" y="190" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc"> .................. </tspan><tspan class="value">USA</tspan>
-<tspan x="30" y="212" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Agents, RAG, LLM Evals, Observability, Full-Stack Systems</tspan>
-<tspan x="30" y="242" class="sec">ENGINEERING</tspan>
-<tspan x="30" y="264" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc"> ................. </tspan><tspan class="value">TypeScript, JavaScript, Python, Java, SQL</tspan>
-<tspan x="30" y="286" class="cc">. </tspan><tspan class="key">Frontend</tspan><tspan class="cc"> .................. </tspan><tspan class="value">React, Next.js, Redux, Tailwind</tspan>
-<tspan x="30" y="308" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Node.js, FastAPI, Spring Boot, Express, GraphQL</tspan>
-<tspan x="30" y="330" class="cc">. </tspan><tspan class="key">Data</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, SQLite</tspan>
-<tspan x="30" y="352" class="cc">. </tspan><tspan class="key">Infra</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Docker, Kubernetes, AWS, GCP, Railway</tspan>
-<tspan x="30" y="374" class="cc">. </tspan><tspan class="key">Async</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Kafka, BullMQ, SQS, SSE, WebSockets</tspan>
-<tspan x="30" y="396" class="cc">. </tspan><tspan class="key">Platform</tspan><tspan class="cc"> .................. </tspan><tspan class="value">GitHub Actions, Stripe, Resend</tspan>
-<tspan x="30" y="426" class="sec">AI SYSTEMS</tspan>
-<tspan x="30" y="448" class="cc">. </tspan><tspan class="key">Agents</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Harnesses, Tool Calling, ReAct</tspan>
-<tspan x="30" y="470" class="cc">. </tspan><tspan class="key">Protocols</tspan><tspan class="cc"> ................. </tspan><tspan class="value">MCP</tspan>
-<tspan x="30" y="492" class="cc">. </tspan><tspan class="key">Retrieval</tspan><tspan class="cc"> ................. </tspan><tspan class="value">RAG, Hybrid Retrieval</tspan>
-<tspan x="30" y="514" class="cc">. </tspan><tspan class="key">Evals</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">LLM Evals</tspan>
-<tspan x="30" y="536" class="cc">. </tspan><tspan class="key">Observability</tspan><tspan class="cc"> ............. </tspan><tspan class="value">LLM Cost, Tokens, Traces</tspan>
-<tspan x="30" y="558" class="cc">. </tspan><tspan class="key">AI.Stack</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Anthropic, OpenAI, LangChain, Pinecone, FAISS</tspan>
-<tspan x="30" y="588" class="sec">DEV ENVIRONMENT</tspan>
-<tspan x="30" y="610" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">VS Code</tspan>
-<tspan x="30" y="632" class="cc">. </tspan><tspan class="key">AI.Coding</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Claude Code, Codex, Antigravity</tspan>
-<tspan x="30" y="662" class="sec">SHIPPED</tspan>
-<tspan x="30" y="684" class="cc">. </tspan><tspan class="key">Products</tspan><tspan class="cc"> .................. </tspan><tspan class="value">joinAlif, BeonAI, Paper Pilot, burn0</tspan>
-<tspan x="30" y="706" class="cc">. </tspan><tspan class="key">Build.Range</tspan><tspan class="cc"> ............... </tspan><tspan class="value">First Commit → Paying Customers</tspan>
-<tspan x="30" y="736" class="sec">IMPACT</tspan>
-<tspan x="30" y="758" class="cc">. </tspan><tspan class="key">Prompts.Evaluated</tspan><tspan class="cc"> ......... </tspan><tspan class="value">300K+</tspan>
-<tspan x="30" y="780" class="cc">. </tspan><tspan class="key">AI.Answers.Day</tspan><tspan class="cc"> ............ </tspan><tspan class="value">50K+</tspan>
-<tspan x="30" y="802" class="cc">. </tspan><tspan class="key">Users</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">3,000+ MAUs</tspan>
-<tspan x="30" y="824" class="cc">. </tspan><tspan class="key">npm.Downloads</tspan><tspan class="cc"> ............. </tspan><tspan class="value">5K+</tspan>
-<tspan x="30" y="846" class="cc">. </tspan><tspan class="key">Paying.Brands</tspan><tspan class="cc"> ............. </tspan><tspan class="value">20+</tspan>
-<tspan x="30" y="868" class="cc">. </tspan><tspan class="key">Papers.Processed</tspan><tspan class="cc"> .......... </tspan><tspan class="value">220K+</tspan>
-<tspan x="30" y="898" class="sec">WINS</tspan>
-<tspan x="30" y="920" class="cc">. </tspan><tspan class="key">Hackathons</tspan><tspan class="cc"> ................ </tspan><tspan class="value">6x Winner</tspan>
-<tspan x="30" y="942" class="cc">. </tspan><tspan class="key">Prize.Money</tspan><tspan class="cc"> ............... </tspan><tspan class="value">$31K+</tspan>
-<tspan x="30" y="972" class="sec">CONTACT</tspan>
-<tspan x="30" y="994" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> .................... </tspan><tspan class="value">SYED-RAFI-NAQVI</tspan>
-<tspan x="30" y="1016" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">sd.rafi1819@gmail.com</tspan>
-<tspan x="30" y="1038" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> .................. </tspan><tspan class="value">linkedin.com/in/syed-rafi-naqvi</tspan>
-<tspan x="30" y="1068" class="sec">GITHUB STATS</tspan>
-<tspan x="30" y="1090" class="cc">. </tspan><tspan class="key">Public.Repos</tspan><tspan class="cc"> .............. </tspan><tspan class="value">84 repositories</tspan>
-<tspan x="30" y="1112" class="cc">. </tspan><tspan class="key">Followers</tspan><tspan class="cc"> ................. </tspan><tspan class="value">19 developers</tspan>
-<tspan x="30" y="1134" class="cc">. </tspan><tspan class="key">Member.Since</tspan><tspan class="cc"> .............. </tspan><tspan class="value">Dec 2015 (10+ years on GitHub)</tspan>
+<rect width="750px" height="1189px" fill="#f6f8fa" rx="15"/>
+<text x="27" y="35" fill="#24292f">
+<tspan x="27" y="35">rafi@github</tspan> <tspan class="cc">~ $ whoami</tspan>
+<tspan x="27" y="55" class="cc">────────────────────────────────────────────────────────────────────────────────</tspan>
+<tspan x="27" y="80" class="sec">SYSTEM</tspan>
+<tspan x="27" y="102" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc"> .................................................. </tspan><tspan class="value">AI / Software Engineer</tspan>
+<tspan x="27" y="124" class="cc">. </tspan><tspan class="key">Mode</tspan><tspan class="cc"> .................................................... </tspan><tspan class="value">6x Technical Founder</tspan>
+<tspan x="27" y="146" class="cc">. </tspan><tspan class="key">Experience</tspan><tspan class="cc"> .......................................................... </tspan><tspan class="value">6+ years</tspan>
+<tspan x="27" y="168" class="cc">. </tspan><tspan class="key">Builder.Mode</tspan><tspan class="cc"> ........................................................... </tspan><tspan class="value">0 → 1</tspan>
+<tspan x="27" y="190" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="cc"> ................................................................. </tspan><tspan class="value">USA</tspan>
+<tspan x="27" y="212" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">Agents, RAG, LLM Evals, Observability</tspan>
+<tspan x="27" y="242" class="sec">ENGINEERING</tspan>
+<tspan x="27" y="264" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc"> .......................... </tspan><tspan class="value">TypeScript, JavaScript, Python, Java, SQL</tspan>
+<tspan x="27" y="286" class="cc">. </tspan><tspan class="key">Frontend</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">React, Next.js, Redux, Tailwind</tspan>
+<tspan x="27" y="308" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">Node.js, FastAPI, Spring Boot, Express, GraphQL</tspan>
+<tspan x="27" y="330" class="cc">. </tspan><tspan class="key">Data</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, SQLite</tspan>
+<tspan x="27" y="352" class="cc">. </tspan><tspan class="key">Infra</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">Docker, Kubernetes, AWS, GCP, Railway</tspan>
+<tspan x="27" y="374" class="cc">. </tspan><tspan class="key">Async</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">Kafka, BullMQ, SQS, SSE, WebSockets</tspan>
+<tspan x="27" y="396" class="cc">. </tspan><tspan class="key">Platform</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">GitHub Actions, Stripe, Resend</tspan>
+<tspan x="27" y="426" class="sec">AI SYSTEMS</tspan>
+<tspan x="27" y="448" class="cc">. </tspan><tspan class="key">Agents</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">Harnesses, Tool Calling, ReAct</tspan>
+<tspan x="27" y="470" class="cc">. </tspan><tspan class="key">Protocols</tspan><tspan class="cc"> ............................................................. </tspan><tspan class="value">MCP</tspan>
+<tspan x="27" y="492" class="cc">. </tspan><tspan class="key">Retrieval</tspan><tspan class="cc"> ............................................ </tspan><tspan class="value">RAG, Hybrid Retrieval</tspan>
+<tspan x="27" y="514" class="cc">. </tspan><tspan class="key">Evals</tspan><tspan class="cc"> ............................................................ </tspan><tspan class="value">LLM Evals</tspan>
+<tspan x="27" y="536" class="cc">. </tspan><tspan class="key">Observability</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">LLM Cost, Tokens, Traces</tspan>
+<tspan x="27" y="558" class="cc">. </tspan><tspan class="key">AI.Stack</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Anthropic, OpenAI, LangChain, Pinecone, FAISS</tspan>
+<tspan x="27" y="588" class="sec">DEV ENVIRONMENT</tspan>
+<tspan x="27" y="610" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ................................................................ </tspan><tspan class="value">VS Code</tspan>
+<tspan x="27" y="632" class="cc">. </tspan><tspan class="key">AI.Coding</tspan><tspan class="cc"> ................................... </tspan><tspan class="value">Claude Code, Codex, Antigravity</tspan>
+<tspan x="27" y="662" class="sec">SHIPPED</tspan>
+<tspan x="27" y="684" class="cc">. </tspan><tspan class="key">Products</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">joinAlif, BeonAI, Paper Pilot, burn0</tspan>
+<tspan x="27" y="706" class="cc">. </tspan><tspan class="key">Build.Range</tspan><tspan class="cc"> ................................. </tspan><tspan class="value">First Commit → Paying Customers</tspan>
+<tspan x="27" y="736" class="sec">IMPACT</tspan>
+<tspan x="27" y="758" class="cc">. </tspan><tspan class="key">Prompts.Evaluated</tspan><tspan class="cc"> ...................................................... </tspan><tspan class="value">300K+</tspan>
+<tspan x="27" y="780" class="cc">. </tspan><tspan class="key">AI.Answers.Day</tspan><tspan class="cc"> .......................................................... </tspan><tspan class="value">50K+</tspan>
+<tspan x="27" y="802" class="cc">. </tspan><tspan class="key">Users</tspan><tspan class="cc"> ............................................................ </tspan><tspan class="value">3,000+ MAUs</tspan>
+<tspan x="27" y="824" class="cc">. </tspan><tspan class="key">npm.Downloads</tspan><tspan class="cc"> ............................................................ </tspan><tspan class="value">5K+</tspan>
+<tspan x="27" y="846" class="cc">. </tspan><tspan class="key">Paying.Brands</tspan><tspan class="cc"> ............................................................ </tspan><tspan class="value">20+</tspan>
+<tspan x="27" y="868" class="cc">. </tspan><tspan class="key">Papers.Processed</tspan><tspan class="cc"> ....................................................... </tspan><tspan class="value">220K+</tspan>
+<tspan x="27" y="898" class="sec">WINS</tspan>
+<tspan x="27" y="920" class="cc">. </tspan><tspan class="key">Hackathons</tspan><tspan class="cc"> ......................................................... </tspan><tspan class="value">6x Winner</tspan>
+<tspan x="27" y="942" class="cc">. </tspan><tspan class="key">Prize.Money</tspan><tspan class="cc"> ............................................................ </tspan><tspan class="value">$31K+</tspan>
+<tspan x="27" y="972" class="sec">CONTACT</tspan>
+<tspan x="27" y="994" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> ....................................................... </tspan><tspan class="value">SYED-RAFI-NAQVI</tspan>
+<tspan x="27" y="1016" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc"> .................................................. </tspan><tspan class="value">sd.rafi1819@gmail.com</tspan>
+<tspan x="27" y="1038" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">linkedin.com/in/syed-rafi-naqvi</tspan>
+<tspan x="27" y="1068" class="sec">GITHUB STATS</tspan>
+<tspan x="27" y="1090" class="cc">. </tspan><tspan class="key">Public.Repos</tspan><tspan class="cc"> ................................................ </tspan><tspan class="value">84 repositories</tspan>
+<tspan x="27" y="1112" class="cc">. </tspan><tspan class="key">Followers</tspan><tspan class="cc"> .................................................... </tspan><tspan class="value">19 developers</tspan>
+<tspan x="27" y="1134" class="cc">. </tspan><tspan class="key">Member.Since</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">Dec 2015 (10+ years on GitHub)</tspan>
 </text>
 </svg>
