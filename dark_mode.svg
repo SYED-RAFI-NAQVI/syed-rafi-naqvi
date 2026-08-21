@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="540px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="880px" height="540px" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,57 +15,29 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="540px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">           ,,g@@@@@@N%Nw,,                  </tspan>
-<tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
-<tspan x="15" y="70">       p!``  '! |''` '''|||jhlj%w           </tspan>
-<tspan x="15" y="90">     ,@L `    ,,        ''!`|j%M]%M         </tspan>
-<tspan x="15" y="110">    ]j'` .,wp@pw,    `.     ''''|%Wg       </tspan>
-<tspan x="15" y="130">  /{||]@@@@@@@@@pp.             |||||      </tspan>
-<tspan x="15" y="150"> '` ']@@@@@@@@@@@@@@p     , ,'''` `        </tspan>
-<tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h '*||mkr     *       </tspan>
-<tspan x="15" y="190">  '  j%M`      |jkk'   ~nrn=|i    ;`       </tspan>
-<tspan x="15" y="210">   !  jrr*^`             `"!  L'':!        </tspan>
-<tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy "  ,~        </tspan>
-<tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
-<tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j         </tspan>
-<tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%',[         </tspan>
-<tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@          </tspan>
-<tspan x="15" y="330">     "djjmkL,"]][,,,,wwxw;|#kjk`           </tspan>
-<tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
-<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||"             </tspan>
-<tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
-<tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
-<tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
-<tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
-<tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
-<tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-<tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i     </tspan>
-</text>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">rafi@github</tspan> -————————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AI Engineer &amp; 3x Technical Founder</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> . </tspan><tspan class="value">AI Agents, RAG, LLM Evals, Observability, Systems</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Builder.Mode</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">0 ➔ 1 (First Commit ➔ Paying Customers)</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">6+ Years Shipping Production AI</tspan>
-<tspan x="390" y="130" class="cc">. </tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">TypeScript, JavaScript, Python, SQL</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">AI.Stack</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">LangGraph, Anthropic, OpenAI, Pinecone, FAISS, MCP</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Node.js, Bun, FastAPI, Hono, Express, Drizzle, BullMQ</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Next.js 16, React 19, Tailwind, Shadcn UI</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Shipped</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Alif, BeonAI, Paper Pilot, burn0 (5K+ dl)</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Impact</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">50K+ daily queries, 300K+ evals, 800M+ users</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Awards</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">6x Hackathon Winner ($31K+ Prizes, LUXE $25K)</tspan>
-<tspan x="390" y="320">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="340" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">sd.rafi1819@gmail.com</tspan>
-<tspan x="390" y="360" class="cc">. </tspan><tspan class="key">Websites</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">beonai.io | burn0.dev</tspan>
-<tspan x="390" y="380" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">syed-rafi-naqvi-28566bb1</tspan>
-<tspan x="390" y="400" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">USA</tspan>
-<tspan x="390" y="430">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">84</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">112</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">180</tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,850</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">124</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">486,210</tspan> ( <tspan class="addColor" id="loc_add">542,100</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">55,890</tspan><tspan class="delColor">--</tspan> )
+<rect width="880px" height="540px" fill="#161b22" rx="15"/>
+<text x="30" y="35" fill="#c9d1d9">
+<tspan x="30" y="35">rafi@github</tspan> <tspan class="cc">~ $ whoami</tspan> -————————————————————————————————————————————————————————-—-
+<tspan x="30" y="60" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AI Engineer &amp; 3x Technical Founder (6+ yrs)</tspan>
+<tspan x="30" y="82" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">AI Agents, RAG, LLM Evals, Observability, Systems</tspan>
+<tspan x="30" y="104" class="cc">. </tspan><tspan class="key">Builder.Mode</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">0 ➔ 1 (First Commit ➔ Paying Customers)</tspan>
+<tspan x="30" y="126" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">USA</tspan>
+<tspan x="30" y="148" class="cc">. </tspan>
+<tspan x="30" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">TypeScript, JavaScript, Python, Java, SQL</tspan>
+<tspan x="30" y="192" class="cc">. </tspan><tspan class="key">AI.Stack</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">LangGraph, Anthropic SDK, OpenAI, Pinecone, FAISS, MCP</tspan>
+<tspan x="30" y="214" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Node.js, Bun, FastAPI, Hono, Express, Drizzle, BullMQ</tspan>
+<tspan x="30" y="236" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Next.js 16, React 19, Tailwind CSS, Shadcn UI</tspan>
+<tspan x="30" y="258" class="cc">. </tspan>
+<tspan x="30" y="280" class="cc">. </tspan><tspan class="key">Shipped</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Alif, BeonAI, Paper Pilot, burn0 (5K+ downloads)</tspan>
+<tspan x="30" y="302" class="cc">. </tspan><tspan class="key">Impact</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">50K+ daily queries, 300K+ evals, 800M+ enterprise subscribers</tspan>
+<tspan x="30" y="324" class="cc">. </tspan><tspan class="key">Awards</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">6x Hackathon Winner ($31K+ Prizes, LUXE $25K)</tspan>
+<tspan x="30" y="350">- Contact</tspan> -————————————————————————————————————————————————————————————————————-—-
+<tspan x="30" y="372" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">sd.rafi1819@gmail.com</tspan>
+<tspan x="30" y="394" class="cc">. </tspan><tspan class="key">Websites</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">beonai.io  |  burn0.dev</tspan>
+<tspan x="30" y="416" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">linkedin.com/in/syed-rafi-naqvi-28566bb1</tspan>
+<tspan x="30" y="442">- GitHub Stats</tspan> -———————————————————————————————————————————————————————————————-—-
+<tspan x="30" y="464" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">84</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">112</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">180</tspan>
+<tspan x="30" y="486" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,850</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">124</tspan>
+<tspan x="30" y="508" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">486,210</tspan> ( <tspan class="addColor" id="loc_add">542,100</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">55,890</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
